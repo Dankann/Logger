@@ -1,0 +1,18 @@
+{
+  "name": "com.dankann.logger",
+  "version": "0.0.1",
+  "displayName": "Logger",
+  "description": "This package manages logging custom settings in Unity",
+  "unity": "2020.3",
+  "keywords": [
+    "Debug",
+    "Log",
+    "Logger"
+  ],
+  "author": {
+    "name": "Dankann Weissm\u00fcller",
+    "email": "dankann.weissmuller@gmail.com",
+    "url": "https://github.com/Dankann"
+  },
+  "type": "tool"
+}
