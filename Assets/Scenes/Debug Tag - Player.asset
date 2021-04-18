@@ -9,10 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e2aa4c9c7151764d977e96b0440775a, type: 3}
-  m_Name: Logger Data
+  m_Script: {fileID: 11500000, guid: c260236a0ce191e45ad9bd91eff4eadd, type: 3}
+  m_Name: Debug Tag - Player
   m_EditorClassIdentifier: 
-  _logType: 12
-  _internalLog: 0
-  _debugTags:
-  - {fileID: 11400000, guid: f4ba88cce77c98647a295d1e2ea26ce8, type: 2}

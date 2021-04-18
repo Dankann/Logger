@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dankann.Logger
+namespace Dankann.Debug
 {
     [Flags]
     public enum LogType

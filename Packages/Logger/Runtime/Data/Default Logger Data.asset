@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e2aa4c9c7151764d977e96b0440775a, type: 3}
   m_Name: Default Logger Data
   m_EditorClassIdentifier: 
-  _logType: -1
+  _logType: 23
   _internalLog: 0
+  _debugTags: []
